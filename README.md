@@ -46,7 +46,4 @@ The dataset used is `Diwali Sales Data.csv`, which contains:
   - **Electronics and clothing** are the top categories.
   - **Uttar Pradesh, Maharashtra, and Karnataka** lead in purchase amounts.
 
----
-
-## 📌 Folder Structure
 
